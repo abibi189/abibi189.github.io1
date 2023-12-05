@@ -5,9 +5,9 @@
  * Thanks for MaterializeCSS.com
  */
 
-.default_color{background-color: #2196F3 !important}
+.default_color{background-color: #9b1587 !important}
 
-.default_color_text{color: #2196F3 !important}
+.default_color_text{color: #9b1587!important}
 
 .icon-block {
     padding: 0 15px;
@@ -20,7 +20,7 @@
     min-height: 632px;
     max-height: 864px;
     position: relative;
-    background-color: #2196F3;
+    background-color: #d7a8dc;
 }
 
 #nav_f{
@@ -55,17 +55,17 @@
 .in{font-weight: 400 !important; font-style: normal !important;}
 
 .promo i {
-    color: #2196F3;
+    color: #9b1587;
     font-size: 7rem;
     display: block;
 }
-.card-content a {color: #2196F3;}
+.card-content a {color: #9b1587;}
 
-.card-content a:hover {color: #2196F3;}
+.card-content a:hover {color: #9b1587;}
 
 #work, #team{background: rgb(247, 247, 247);}
 
-.text_pink{color:#EF9A9A;}
+.text_pink{color:#4e12b6;}
 
 nav ul a {
     font-size: 1.2rem;
