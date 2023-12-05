@@ -48,9 +48,9 @@
 
 .text_h2 {font-weight: 100;margin-bottom: 4%; line-height: 4.5rem;}
 
-.span_h2 {font-weight: 300;color: #2196F3;}
+.span_h2 {font-weight: 300;color: #9b1587;}
 
-.text_b{color: #2196F3;}
+.text_b{color: #9b1587;}
 
 .in{font-weight: 400 !important; font-style: normal !important;}
 
@@ -65,7 +65,7 @@
 
 #work, #team{background: rgb(247, 247, 247);}
 
-.text_pink{color:#4e12b6;}
+.text_pink{color:#EF9A9A;}
 
 nav ul a {
     font-size: 1.2rem;
